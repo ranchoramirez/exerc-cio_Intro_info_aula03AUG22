@@ -1,2 +1,6 @@
 projeto com auxilio de Ayrton Senna
+<<<<<<< HEAD
 Eduardo
+=======
+Lidiane Carmo
+>>>>>>> a8df41c92c8be2da43cbd4447447cc071f78f713
